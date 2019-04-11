@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = remi.duvoux@gmail.com
+	email = remi@okarito.io
 	name = Remi Duvoux
